@@ -1,0 +1,21 @@
+/* style.css */
+
+.odds-elements {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.special {
+    font-size: 24px;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
+
+
+#four-element {
+    background-color: lightgreen;
+    font-size: 24px;
+}
