@@ -1,21 +1,19 @@
-/* style.css */
-
-.odds-elements {
-    background-color: lightpink;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+.odd {
+    background-color: #ffcccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.special {
-    font-size: 24px;
+.adjust-font-size {
+font-size: 24px;
 }
 
-#second-element {
-    color: blue;
+#two {
+    color:#0000ff;
     font-size: 36px;
 }
 
-
-#four-element {
-    background-color: lightgreen;
+#four {
+    background-color:#66ff99;
     font-size: 24px;
+    font-weight: bold;
 }
